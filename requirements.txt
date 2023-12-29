@@ -6,5 +6,7 @@ scikit-learn
 xgboost
 Flask
 ipykernel
+matplotlib
+
 
 -e .
