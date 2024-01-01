@@ -7,6 +7,7 @@ xgboost
 Flask
 ipykernel
 matplotlib
+dill
 
 
 -e .
